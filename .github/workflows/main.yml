@@ -52,5 +52,5 @@ jobs:
       
       - name: Signing using keypair alias
         run: |
-           smctl sign --keypair-alias key_867889727 --input 'C:\Users\lakhiwe.zaleni\Documents\Files\Icons.dll' --config-file 'C:\Program Files\DigiCert\Click-to-sign\pkcs11properties.cfg'
+           smctl sign --keypair-alias key_1303848249 --input 'C:\Users\lakhiwe.zaleni\Documents\Files\Icons.dll' --config-file 'C:\Program Files\DigiCert\Click-to-sign\pkcs11properties.cfg'
         shell: cmd
